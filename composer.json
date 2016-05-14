@@ -1,0 +1,14 @@
+{
+    "name": "cmmarslender/wp-library-helpers",
+    "description": "Helper functions for use in WordPress libraries",
+    "type": "wordpress-library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Marslender",
+            "email": "chrismarslender@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
